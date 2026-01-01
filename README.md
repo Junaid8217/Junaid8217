@@ -18,6 +18,10 @@
   <a href="https://www.facebook.com/junaid.hossain.33821/">
     <img height="50" src="https://cdn.simpleicons.org/facebook/1877F2" />
   </a>
+    <a href="mailto:junaidhossain77349@gmail.com">
+    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" />
+  </a>
+
 </p>
 
 <br />
