@@ -21,7 +21,7 @@
 
 </p>
 
-<br 
+<br>
 
 ## :computer: Technologies that I know
 
