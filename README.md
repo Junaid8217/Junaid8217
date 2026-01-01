@@ -11,7 +11,14 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/Junaid8217/Junaid8217/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-junaid-hossain-623879360/)[<img height="75" src="https://github.com/Junaid8217/Junaid8217/blob/main/images/icons/Facebook.png"> </p>](https://www.facebook.com/junaid.hossain.33821/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-junaid-hossain-623879360/">
+    <img height="75" src="https://github.com/Junaid8217/Junaid8217/blob/main/images/icons/Linkedin.png" />
+  </a>
+  <a href="https://www.facebook.com/junaid.hossain.33821/">
+    <img height="75" src="https://github.com/Junaid8217/Junaid8217/blob/main/images/icons/Facebook.png" />
+  </a>
+</p>
 <br />
 
 
