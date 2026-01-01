@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="banner-github.png" width="100% alt="Banner" />
-</p>
+![Banner](https://i.ibb.co.com/5hp9VxWB/banner-github.png)
