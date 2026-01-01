@@ -27,27 +27,27 @@
 
 <br>
 <p align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" alt="C"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" alt="C++"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
 </p>
 
 <p align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redux.svg" alt="Redux"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sass.svg" alt="Sass"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" alt="Bootstrap"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" alt="Firebase"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase"/>
 </p>
 
 <p align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" alt="Express"/>
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
 </p>
 <br/>
 
