@@ -52,7 +52,12 @@
 
 <div align="left">
   <a href="https://app.daily.dev/Junaid8217">
-    <img align="right" src="https://github.com/Junaid8217/Junaid8217/blob/main/devcard.svg" width="200" alt="Junaid8217's Dev Card"/>
+    <img
+      align="right"
+      src="https://raw.githubusercontent.com/Junaid8217/Junaid8217/main/devcard.svg"
+      width="200"
+      alt="Junaid8217's Dev Card"
+    />
   </a>
 </div>
 
