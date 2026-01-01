@@ -50,17 +50,6 @@
 
 ## 👀 Current Overview
 
-<div align="left">
-  <a href="https://app.daily.dev/Junaid8217">
-    <img
-      align="right"
-      src="https://raw.githubusercontent.com/Junaid8217/Junaid8217/main/devcard.svg"
-      width="200"
-      alt="Junaid8217's Dev Card"
-    />
-  </a>
-</div>
-
 ### 🔭 I’m currently working at projects, building modern web applications.
 ### 🌱 I’m exploring advanced web development techniques and motion graphics for interactive UIs.
 ### 👯 I’m open to collaborating on open-source projects and contributing to the developer community.
