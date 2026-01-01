@@ -48,6 +48,21 @@
 </p>
 <br/>
 
+## 👀 Current Overview
+
+<div align="left">
+  <a href="https://app.daily.dev/Junaid8217">
+    <img align="right" src="https://github.com/Junaid8217/Junaid8217/blob/main/devcard.svg" width="200" alt="Junaid8217's Dev Card"/>
+  </a>
+</div>
+
+### 🔭 I’m currently working at projects, building modern web applications.
+### 🌱 I’m exploring advanced web development techniques and motion graphics for interactive UIs.
+### 👯 I’m open to collaborating on open-source projects and contributing to the developer community.
+### 🤔 I enjoy mentoring and helping others learn web development.
+### ⚡ Fun fact: I love creating complex origami designs and I can speak 3 languages.
+
+
 
 
 
