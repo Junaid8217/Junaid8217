@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Junaid8217&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Junaid8217&theme=tokyonight" />
 </p>
 
 ## :mailbox: Reach me out
