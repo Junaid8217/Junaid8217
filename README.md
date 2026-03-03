@@ -57,6 +57,9 @@
 ### ⚡ Fun fact: I love creating complex origami designs and I can speak 3 languages.
 
 
+![Profile views](https://komarev.com/ghpvc/?username=Junaid8217&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
 
 
